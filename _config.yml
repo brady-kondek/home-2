@@ -3,15 +3,15 @@
 # ----------------------- #
 
 url: https://bradykondek.github.io/home-2
-title: Your Awesome Site
+title: Brady Kondek
 email: your-email@domain.com
 author: Your Name
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: '&copy; 2019 Brady Kondek'
+credits: 'Site Designed By <a target="_blank" href="https://webdesign.bradykondek.ga">Brady Kondek Website Design</a>'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
